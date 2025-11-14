@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image:url(bg2.jpg) ;
+    background-repeat: repeat;
+
+}
+
+
+.small {
+    width: 50px;
+}
