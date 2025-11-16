@@ -7,6 +7,71 @@ body{
 }
 
 
-.small {
-    width: 50px;
+/* .small {
+    width: 180px;
+    float: left;
+    padding: 2px;
+    
+} */
+
+p{
+    font-size: 100;
 }
+
+.bigtext{
+    font-size: 60px;
+}
+
+.img{
+    float: right;
+    width: 300px;
+   
+}
+
+.small {
+  float: left;
+  width: 300px;
+  
+}
+
+.celly{
+    float: middle;
+    width: 300px;
+    
+}
+
+
+.car{
+    float: left;
+    width: 300px; ;
+}
+
+.car1{
+    float: middle;
+    width: 250px;
+}
+
+.car2{
+    float:right;
+    width: 300px;
+}
+
+.ski{
+    float: right;
+    width:400px
+}
+
+.ski1{
+    float: right;
+    width:400px
+}
+
+.ski2{
+    float: right;
+    width:400px
+}
+
+
+
+
+
