@@ -3,75 +3,48 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-image:url(bg2.jpg) ;
     background-repeat: repeat;
+    color:rgb(8, 8, 8);
 
 }
 
-
-/* .small {
-    width: 180px;
-    float: left;
-    padding: 2px;
-    
-} */
-
-p{
-    font-size: 100;
+ol {
+    list-style-position: inside;
+    text-align: center;
 }
 
-.bigtext{
-    font-size: 60px;
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
 }
 
+.Teams{
+    color: rgb(6, 6, 6);
+    float: middle;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.players{
+    float: middle;
+    color:black;
+}
 .img{
-    float: right;
-    width: 300px;
-   
+    width:200px ;
 }
 
-.small {
-  float: left;
-  width: 300px;
-  
-}
-
-.celly{
-    float: middle;
-    width: 300px;
-    
-}
-
-
-.car{
+.left{
     float: left;
-    width: 300px; ;
+    color: black;
 }
 
-.car1{
+.middle{
     float: middle;
-    width: 250px;
-}
-
-.car2{
-    float:right;
-    width: 300px;
-}
-
-.ski{
-    float: right;
-    width:400px
-}
-
-.ski1{
-    float: right;
-    width:400px
-}
-
-.ski2{
-    float: right;
-    width:400px
+    color: black;
 }
 
 
 
-
-
+.img1{
+    width: 500px;
+}
