@@ -4,6 +4,7 @@ body{
     background-image:url(bg2.jpg) ;
     background-repeat: repeat;
     color:rgb(8, 8, 8);
+    cursor: url("cursor.png")16 16, auto;
 
 }
 
@@ -16,13 +17,14 @@ table {
     margin-left: auto;
     margin-right: auto;
     font-size: larger;
+    background-color: white;
+    box-shadow: 8px 13px 8px darkblue;
 }
 
 .Teams{
     color: rgb(6, 6, 6);
     float: middle;
     font-size: larger;
-    font-weight: bold;
 }
 
 .players{
@@ -47,4 +49,25 @@ table {
 
 .img1{
     width: 500px;
+}
+
+.car{
+    width: 400px;
+}
+
+.car1{
+    width: 600px;
+}
+
+.ski{
+    width:350px
+}
+
+.ski1{
+    width:400px; 
+}
+
+.link{
+    font-size: larger;
+    color: black;
 }
